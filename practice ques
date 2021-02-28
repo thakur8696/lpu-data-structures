@@ -1,0 +1,122 @@
+package com.company;
+import java.util.*;
+public class Main {
+
+    public static void main(String[] args) {
+
+
+        //upgrad module ques
+        //  Scanner input= new Scanner(System.in);
+//
+//        int x=sc.nextInt();
+//        int y=sc.nextInt();
+//
+//	    if((x+y)>30){
+//            System.out.println("The statement said by the person is true");
+//        }
+//	    else{
+//            System.out.println("The statement said by the person is false");
+//        }
+        // upgrad module ques
+
+        // Scanner sc=new Scanner(System.in);
+//        int X,Y,A,B, heartRate
+//        X=input.nextInt();
+//        Y=input.nextInt();
+//        A=input.nextInt();
+//        B=input.nextInt();
+//        heartRate=input.nextInt();
+//        if((X+Y)>30 && (A>3 || B<6) && heartRate==70){
+//            System.out.println("The statement said by the person is true");
+//        }
+//        else
+//            {
+//            System.out.println("The statement said by the person is false");
+//        }
+        //upgrad module ques
+//
+        // Uograd module ques
+//        int speed1 = 15;
+//
+//        double speed2 = speed1*(5/18);
+//
+//        System.out.println(speed2);
+
+        //UPGRAD MODULE PRACTICE QUEST
+
+//        int a=6;
+//        double b=5.5;
+//        int c=a+(int)b;
+//        System.out.println(c);
+//
+
+        //UPGRAD PRACTICE QUES
+
+
+//        String names[];
+//        names=new String[4];
+//        names[0]="Henry";
+//        names[1]="Shane";
+//        names[2]="Sharma";
+//        names[3]="Watson";
+//
+//        System.out.println(names[0]+" "+names[2]);
+//        System.out.println(names[1]+ " " + names[3]);
+//                       // UPGRAD PRACTICE QUES
+
+//
+//        int myAge;
+//        int ageOfBrother;
+//        Scanner sc = new Scanner(System.in);
+//
+//        myAge=sc.nextInt();
+//        ageOfBrother=sc.nextInt();
+//
+//        if((myAge<25&&myAge>0) && (ageOfBrother<25&&ageOfBrother>0)){
+//            System.out.println("True");
+//        }
+//        else if(myAge<=0 && ageOfBrother<=0){
+//            System.out.println("false");
+//        }
+//        else{
+//            System.out.println("false");
+//        }
+
+
+        //  UPGRAD BIGGEST AND EASY QUES
+//
+//        //Create new scanner
+//        Scanner input = new Scanner(System.in);
+//
+//        //Values of each digit
+//        int tenThousands, thousands, hundreds, tens, ones;
+//
+//        //Prompt user to input 5 digit number
+//        String s= "";
+//
+//        int number = input.nextInt();
+//        if (number > 99999) {
+//            System.out.println("\nError! Number more than 5 digits.");
+//        }
+//        else if (number < 10000) {
+//            System.out.println("Error! Number less than 5 digits.");
+//        }
+//        else if (10000<=number&&number<=99999){
+//            //WRITE YOUR CODE HERE
+//            tenThousands= (number/10000)%10;
+//            System.out.println(tenThousands);
+//
+//            thousands=(number/1000)%10;
+//            System.out.println(thousands);
+//
+//            hundreds=(number/100)%10;
+//            System.out.println(hundreds);
+//
+//            tens=(number/10)%10;
+//            System.out.println(tens);
+//
+//            ones=(number%10);
+//            System.out.println(ones);
+//        }
+    }
+}
